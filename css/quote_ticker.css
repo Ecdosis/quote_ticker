@@ -1,0 +1,9 @@
+#navigation span.pullquote { 
+    display: inline;
+    border: 0; 
+    max-size: 100px; 
+    white-space: nowrap; 
+    overflow: hidden;
+    background: transparent; 
+}
+#block-quote-ticker-quote-ticker { background: transparent; clear:both; margin-bottom:8px }
